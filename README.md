@@ -1,11 +1,10 @@
 # 👨🏻‍💻 Davi Serlio Lopes
 
-**`Desenvolvedor Front-End`**
+**`Estudante de Programação`**
 
-Olá! Me chamo **Davi Serlio Lopes**, sou apaixonado por desenvolvimento web e sempre estou em busca de novos conhecimentos e desafios.  
-Atualmente compartilho minhas experiências e aprendizados no meu [Instagram](https://www.instagram.com/_davi.lopes_/), e também no [LinkedIn](https://www.linkedin.com/in/davi-serlio-315991305/).  
-Tenho foco em tecnologias Front-End e estou em constante evolução como desenvolvedor!
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando o 3º semestre.
 
+Atualmente, estou em busca de uma oportunidade de estágio na área de programação ou em setores relacionados à tecnologia, com o objetivo de aplicar e expandir meus conhecimentos, contribuindo para o crescimento da equipe e o sucesso dos projetos.
 ---
 
 ### 🚀 Tecnologias e Ferramentas
