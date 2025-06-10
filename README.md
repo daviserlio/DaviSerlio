@@ -2,9 +2,7 @@
 
 **`Estudante de Programação`**
 
-Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando o 3º semestre.
-
-Atualmente, estou em busca de uma oportunidade de estágio na área de programação ou em setores relacionados à tecnologia, com o objetivo de aplicar e expandir meus conhecimentos, contribuindo para o crescimento da equipe e o sucesso dos projetos.
+Seja bem-vindo 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
