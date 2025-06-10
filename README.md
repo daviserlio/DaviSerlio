@@ -2,7 +2,7 @@
 
 **`Estudante de Programação`**
 
-Seja bem-vindo 
+Seja bem-vindo ao meu GitHub
 ---
 
 ### 🚀 Tecnologias e Ferramentas
